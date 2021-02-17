@@ -1,0 +1,13 @@
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.exe
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.deps.json
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.runtimeconfig.json
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.runtimeconfig.dev.json
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.dll
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.pdb
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.csprojAssemblyReference.cache
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.AssemblyInfoInputs.cache
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.AssemblyInfo.cs
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.csproj.CoreCompileInputs.cache
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.dll
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.pdb
+D:\C# Programs\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.genruntimeconfig.cache
